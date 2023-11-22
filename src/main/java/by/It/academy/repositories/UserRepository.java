@@ -5,5 +5,4 @@ import java.util.List;
 
 public interface UserRepository {
     List<User> readUser();
-   // Optional<User> getUserById(Long id);
 }
