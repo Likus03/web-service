@@ -1,7 +1,6 @@
 package by.It.academy.example.controllers;
 
 import by.It.academy.example.entities.User;
-import by.It.academy.example.repositories.UserRepositoryImpl;
 import by.It.academy.example.services.UserService;
 import by.It.academy.example.services.UserServiceImpl;
 
